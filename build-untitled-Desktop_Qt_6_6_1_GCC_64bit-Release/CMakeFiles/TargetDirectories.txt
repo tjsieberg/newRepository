@@ -1,0 +1,9 @@
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/untitled.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/list_install_components.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install/local.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install/strip.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/virtual/QtProjects/build-untitled-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/untitled_autogen.dir
